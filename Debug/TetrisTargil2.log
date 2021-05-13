@@ -1,0 +1,11 @@
+﻿  Computer.cpp
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Board.h(28,45): warning C4309: 'default argument': truncation of constant value
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Computer.cpp(78,9): warning C4101: 'IsEmptyRow': unreferenced local variable
+  HumanVsComputer.cpp
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Board.h(28,45): warning C4309: 'default argument': truncation of constant value
+  main.cpp
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Board.h(28,45): warning C4309: 'default argument': truncation of constant value
+  tetris.cpp
+C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\TetrisTargil2\Board.h(28,45): warning C4309: 'default argument': truncation of constant value
+  Generating Code...
+  TetrisTargil2.vcxproj -> C:\Users\yuval\Desktop\שנה ב\סמסטר ב\cpp\TetrisTargil2\Debug\TetrisTargil2.exe
